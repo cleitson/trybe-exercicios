@@ -2,4 +2,4 @@
 
 # verifica se e um email ou cpf valido
 
-hospedado no <a href="cleitson-trybe-validador.surge.sh"> Surge.sh </a>
+hospedado no <a href="https://cleitson-trybe-validador.surge.sh/"> Surge.sh </a>
