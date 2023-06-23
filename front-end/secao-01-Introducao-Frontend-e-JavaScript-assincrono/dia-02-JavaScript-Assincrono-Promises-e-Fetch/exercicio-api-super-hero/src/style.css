@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+  font-family: monospace,roboto, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #1A1B1C;
+  color: white;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+h1, img, p, button {
+  margin: 10px;
+}
+
+#btnRandom {
+  padding: 15px;
+  border-radius: 10px;
+  background-color: green;
+  color: white;
+}
