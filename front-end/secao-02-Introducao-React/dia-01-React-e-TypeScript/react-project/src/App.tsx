@@ -1,5 +1,6 @@
 import Greeting from "./components/greeting"
 import LuckyNumbers from "./components/luckyNumbers";
+import PastResults from "./components/PastResults";
 import "./App.css"
 
 function App() {
@@ -7,6 +8,7 @@ function App() {
     <>
       <Greeting />
       <LuckyNumbers />
+      <PastResults />
     </>    
   );
 }
